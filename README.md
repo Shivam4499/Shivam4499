@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://rishavchanda.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://shivam4499.io)
 
 <h1 align="center">Hi 👋, I'm SHIVAM DIXIT</h1>
 <h3 align="center">I am a Passionate Web Developer from India.</h3>
