@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN, NEXTJS, MACHINE LEARNING**
 
-- 📫 How to reach me **dixitshivam4499@gmail.com**
+- 📫 How to reach me **dixitshivam9511@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
